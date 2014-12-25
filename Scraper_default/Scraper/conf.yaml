@@ -1,0 +1,17 @@
+projectName: default
+projectStatus: disabled
+
+# 组件
+component:
+	cookieManage: false
+	scrapy_proxy: true
+	scrapy_redis: true
+	scrapyjs: false
+
+# 账号列表
+accounts_list: []
+
+# spider列表
+spiders_list: [default_example]
+
+# jobs_list: []
